@@ -8,6 +8,7 @@ class SpringBootRestApiApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Hello world");
 	}
 
 }
